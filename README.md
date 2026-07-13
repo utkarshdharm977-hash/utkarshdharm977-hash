@@ -1,7 +1,7 @@
 # Hi 👋, I'm Utkarsh Dharmik
 
 <p align="center">
-  <img src="https://github.com/utkarshdharm977-hash.png" width="180" style="border-radius:50%;" alt="Utkarsh Dharmik"/>
+    src="https://github.com/utkarshdharm977-hash.png" width="180" style="border-radius:50%;" alt="Utkarsh Dharmik"/>
 </p>
 
 <p align="center">
