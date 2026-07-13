@@ -1,8 +1,5 @@
 # Hi 👋, I'm Utkarsh Dharmik
 
-<p align="center">
-    src="https://github.com/utkarshdharm977-hash.png" width="180" style="border-radius:50%;" alt="Utkarsh Dharmik"/>
-</p>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3000&pause=1000&color=00C4FF&center=true&vCenter=true&width=900&lines=Full-Stack+Web+Developer;Aspiring+Data+Analyst;Data+Science+Student;Python+%7C+SQL+%7C+Power+BI+%7C+React+%7C+Node.js" alt="Typing SVG" />
